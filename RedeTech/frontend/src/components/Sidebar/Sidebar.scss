@@ -1,0 +1,42 @@
+.sidebar {
+  padding: 50px 20px;
+  width: 180px;
+  height: 100vh;
+  position: fixed;
+  z-index: 999;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      margin: 15px 0;
+
+      a {
+        display: flex;
+        text-align: start;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+        color: var(--text-primary);
+        font-weight: 600;
+        padding: 8px 15px;
+        border-radius: 8px;
+        transition: background 0.2s;
+
+        &:hover {
+          background-color: var(--bg-hover);
+        }
+
+        svg {
+          color: var(--accent-blue);
+        }
+
+        span {
+          flex: 1;
+        }
+      }
+    }
+  }
+}
