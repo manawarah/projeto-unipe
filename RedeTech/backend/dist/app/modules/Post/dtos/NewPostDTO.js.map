@@ -1,0 +1,1 @@
+{"version":3,"file":"NewPostDTO.js","sourceRoot":"","sources":["../../../../../src/app/modules/Post/dtos/NewPostDTO.ts"],"names":[],"mappings":";;;AAAA,MAAa,UAAU;IAIrB,YAAY,IAGX;QACC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,IAAI,CAAC;QACtB,IAAI,CAAC,OAAO,GAAG,IAAI,CAAC,OAAO,CAAC;IAC9B,CAAC;CACF;AAXD,gCAWC"}

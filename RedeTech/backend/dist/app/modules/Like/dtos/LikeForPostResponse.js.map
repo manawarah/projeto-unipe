@@ -1,0 +1,1 @@
+{"version":3,"file":"LikeForPostResponse.js","sourceRoot":"","sources":["../../../../../src/app/modules/Like/dtos/LikeForPostResponse.ts"],"names":[],"mappings":";;;AAAA,MAAa,sBAAsB;IAK/B,YAAY,MAAc,EAAE,UAAkB,EAAE,WAAoB;QAChE,IAAI,CAAC,IAAI,GAAG,MAAM,CAAC;QACnB,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,WAAW,GAAG,WAAW,CAAC;IACnC,CAAC;CACJ;AAVD,wDAUC"}

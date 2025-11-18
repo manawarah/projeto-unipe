@@ -1,0 +1,1 @@
+{"version":3,"file":"UpdatePostDTO.js","sourceRoot":"","sources":["../../../../../src/app/modules/Post/dtos/UpdatePostDTO.ts"],"names":[],"mappings":";;;AAAA,MAAa,aAAa;IAIxB,YAAY,IAGX;QACC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,IAAI,CAAC;QACtB,IAAI,CAAC,OAAO,GAAG,IAAI,CAAC,OAAO,CAAC;IAC9B,CAAC;CACF;AAXD,sCAWC"}

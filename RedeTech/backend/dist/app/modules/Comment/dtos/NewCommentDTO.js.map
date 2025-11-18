@@ -1,0 +1,1 @@
+{"version":3,"file":"NewCommentDTO.js","sourceRoot":"","sources":["../../../../../src/app/modules/Comment/dtos/NewCommentDTO.ts"],"names":[],"mappings":";;;AAAA,MAAa,aAAa;IAIxB,YAAY,OAAY;QACtB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC,OAAO,CAAC;QAC/B,IAAI,CAAC,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC;IAC3B,CAAC;CACF;AARD,sCAQC"}
